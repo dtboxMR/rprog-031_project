@@ -9,13 +9,10 @@ is at the end of this codebook.)
 
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-tBodyAcc-XYZ
-
-tGravityAcc-XYZ
-
-tBodyAccJerk-XYZ
-
-tBodyGyro-XYZ
+-tBodyAcc-XYZ
+-tGravityAcc-XYZ
+-tBodyAccJerk-XYZ
+-tBodyGyro-XYZ
 
 tBodyGyroJerk-XYZ
 
