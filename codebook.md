@@ -13,8 +13,7 @@ is at the end of this codebook.)
 -tGravityAcc-XYZ
 -tBodyAccJerk-XYZ
 -tBodyGyro-XYZ
-
-tBodyGyroJerk-XYZ
+-tBodyGyroJerk-XYZ
 
 tBodyAccMag
 
