@@ -9,6 +9,7 @@ read.table(path, header = TRUE)
 
 The script follows the following steps (those are not exactly the steps 
 from the instruction to the assignment):
+
 1. Loading Data
   1. Loading training set data
   2. Loading test set data
