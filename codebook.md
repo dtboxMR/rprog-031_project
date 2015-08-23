@@ -14,30 +14,18 @@ is at the end of this codebook.)
 - tBodyAccJerk-XYZ
 - tBodyGyro-XYZ
 - tBodyGyroJerk-XYZ
-
-tBodyAccMag
-
-tGravityAccMag
-
-tBodyAccJerkMag
-
-tBodyGyroMag
-
-tBodyGyroJerkMag
-
-fBodyAcc-XYZ
-
-fBodyAccJerk-XYZ
-
-fBodyGyro-XYZ
-
-fBodyAccMag
-
-fBodyAccJerkMag
-
-fBodyGyroMag
-
-fBodyGyroJerkMag
+- tBodyAccMag
+- tGravityAccMag
+- tBodyAccJerkMag
+- tBodyGyroMag
+- tBodyGyroJerkMag
+- fBodyAcc-XYZ
+- fBodyAccJerk-XYZ
+- fBodyGyro-XYZ
+- fBodyAccMag
+- fBodyAccJerkMag
+- fBodyGyroMag
+- fBodyGyroJerkMag
 
 b. Further, variables are formed by adding the following parts to their names which denote:
 mean(): Mean value
@@ -53,7 +41,6 @@ The dataset has the following variables:
 
 1. subject_id - id number of a person performing the activities, ranges from 1 to 30
 2. activity_type - there are 6 activity types listed below: 
-
  	WALKING
  	
  	WALKING_UPSTAIRS
