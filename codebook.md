@@ -6,6 +6,7 @@ a. The following variables are not present in this dataset, but are important fo
 They are derived from the raw data by applying some filters and transforms. 
 (More information about those variables, which is copied from the initial dataset 
 is at the end of this codebook.)
+
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 tBodyAcc-XYZ
@@ -19,16 +20,27 @@ tBodyGyro-XYZ
 tBodyGyroJerk-XYZ
 
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
 
 b. Further, variables are formed by adding the following parts to their names which denote:
@@ -43,17 +55,25 @@ for each subject and each activity.
 
 The dataset has the following variables:
 
-1 subject_id - id number of a person performing the activities, ranges from 1 to 30
-2 activity_type - there are 6 activity types listed below: 
+1. subject_id - id number of a person performing the activities, ranges from 1 to 30
+
+2. activity_type - there are 6 activity types listed below: 
+
  	WALKING
+ 	
  	WALKING_UPSTAIRS
+ 	
  	WALKING_DOWNSTAIRS
+ 	
  	SITTING
+ 	
  	STANDING
+ 	
  	LAYING
-3 tBodyAcc-mean()-X
-4 tBodyAcc-mean()-Y
-5 tBodyAcc-mean()-Z
+ 	
+3. tBodyAcc-mean()-X
+4. tBodyAcc-mean()-Y
+5. tBodyAcc-mean()-Z
 6 tBodyAcc-std()-X
 7 tBodyAcc-std()-Y
 8 tBodyAcc-std()-Z
