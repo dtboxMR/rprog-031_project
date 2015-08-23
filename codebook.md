@@ -41,6 +41,7 @@ The dataset has the following variables:
 
 1. subject_id - id number of a person performing the activities, ranges from 1 to 30
 2. activity_type - there are 6 activity types listed below: 
+
  	WALKING
  	
  	WALKING_UPSTAIRS
