@@ -7,11 +7,17 @@ They are derived from the raw data by applying some filters and transforms.
 (More information about those variables, which is copied from the initial dataset 
 is at the end of this codebook.)
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
 tGravityAccMag
 tBodyAccJerkMag
